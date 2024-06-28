@@ -10,6 +10,7 @@ func main() {
 	var var2 int = 5;
 	var var3 float64 = 5.765;
 
+    Println("Hello World!!")
     fmt.Println("Add = ",caluclator.Add(var1,var2))
 	fmt.Println("Sub = ",caluclator.Sub(var1,var2))
 	fmt.Println("Div = ",caluclator.Div(var1,var2))
